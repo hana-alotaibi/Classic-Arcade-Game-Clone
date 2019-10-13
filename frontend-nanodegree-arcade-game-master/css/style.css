@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#popup {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.hide {
+	display: none;
+}
+
+.score {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
